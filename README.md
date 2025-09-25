@@ -20,7 +20,7 @@ I'm a Code Guardian
 ## Français 🇫🇷
 
 ### Avec plus de quinze ans à bâtir et révolutionner le web, je peux vous aider à imposer votre projet en ligne.
-#### J'ai collaboré avec de grandes marques d'Internet qui m'ont fait confiance pour développer leur projets.
+#### J'ai collaboré avec de grandes marques d'Internet qui m'ont fait confiance pour développer leurs projets.
 #### Haute qualité et précision, je suis un gardien du code
 #### Laissez-moi déployer vos projets sur l'Internet de demain !
 
