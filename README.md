@@ -17,7 +17,7 @@ I'm a Code Guardian
 
 ### [📩 Get in touch](mailto:anda_pirate@proton.me)
 
-## Français 🇹🇭
+## Français 🇫🇷
 
 ### Avec plus de quinze ans à bâtir et révolutionner le web, je peux vous aider à imposer votre projet en ligne.
 #### J'ai collaboré avec de grandes marques d'Internet qui m'ont fait confiance pour développer leur projets.
