@@ -10,11 +10,23 @@ trust me to implement their most important website.
 | **iCure**<br>![iCure](https://www.anda.ninja/_next/image?url=%2Fimg%2Fb2b%2Ficure.jpeg&w=750&q=75)                      | **GameOfBlocks**<br>![GameOfBlocks](https://www.anda.ninja/_next/image?url=%2Fimg%2Fb2b%2Fscreenshot.jpeg&w=750&q=75)<br> |
 | TimbTrack<br>![TimbTrack](https://www.anda.ninja/_next/image?url=%2Fimg%2Fb2b%2Ftimbtrack.jpeg&w=750&q=75)              | Sk8boarders<br><br>![Sk8boarders](https://www.anda.ninja/_next/image?url=%2Fimg%2Fb2b%2Fsk8boarders.jpeg&w=750&q=75)      |
 
+
 ## Informagician
 My skills are refined and precise,  
 I'm a Code Guardian
 
 ### [📩 Get in touch](mailto:anda_pirate@proton.me)
+
+## Français 🇹🇭
+
+### Avec plus de quinze ans à bâtir et révolutionner le web, je peux vous aider à imposer votre projet en ligne.
+#### J'ai collaboré avec de grandes marques d'Internet qui m'ont fait confiance pour développer leur projets.
+#### Haute qualité et précision, je suis un gardien du code
+#### Laissez-moi déployer vos projets sur l'Internet de demain !
+
+### [➡️ Version du site en français 🌐](https://www.anda.ninja?lang=fr)
+
+### [➡️ Travaillons ensemble 📩](mailto:anda_pirate@proton.me)
 
 ## ภาษาไทย 🇹🇭
 
